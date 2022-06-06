@@ -29,7 +29,7 @@ public class Main {
       leap = false;
 
     if (leap)
-      System.out.println(year + " is a leap year.");
+      System.out.println(year + " is a a a leap year.");
     else
       System.out.println(year + " is not a leap year.");
   }
